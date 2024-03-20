@@ -1,2 +1,5 @@
 *.zip
 data/
+.DS_Store
+.ipynb_checkpoints
+env/
